@@ -12,9 +12,7 @@
   <a href="https://www.linkedin.com/in/sujonhossain/">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=LInkedin&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Flinkedin.com">
   </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
+ 
 </p>
 <img height="20px" src="https://freepngimg.com/thumb/facebook/65377-like-icons-button-facebook,-computer-facebook-logo.png"/>
 <small align="center"><img width="100%" height="300px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true&text_color=9f9f9f&bg_color=151515&text_size=16px" /></small>
