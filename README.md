@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<small align="center"><img width="100%" height="50%"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true&text_color=9f9f9f&bg_color=151515" /></small>
+<small align="center"><img width="100%" height="50%"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true&text_color=9f9f9f&bg_color=151515&text_size=16px" /></small>
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&width:100%)
 <!--
 **SujonHossain1/SujonHossain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
