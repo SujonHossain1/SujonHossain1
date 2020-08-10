@@ -1,4 +1,18 @@
 ### Hi there 👋
+<p align="center">
+  <a href="https://github.com/SujonHossain1?tab=followers">
+    <img src="https://img.shields.io/github/followers/SujonHossain1?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/eddiejaoude">
+    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://discord.com/invite/jZQs6Wu">
+    <img src="https://img.shields.io/facebook/SujonHossainBD?logo=facebook&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
 <img src="https://freepngimg.com/thumb/facebook/65377-like-icons-button-facebook,-computer-facebook-logo.png"/>
 <small align="center"><img width="100%" height="300px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true&text_color=9f9f9f&bg_color=151515&text_size=16px" /></small>
 
