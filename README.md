@@ -14,6 +14,6 @@
 </p>
 
 
-<small align="center"><img width="100%" height="250px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true&text_color=9f9f9f&text_size=16px" /></small>
+<small align="center"><img width="100%" height="250px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true&text_size=16px" /></small>
 
 
