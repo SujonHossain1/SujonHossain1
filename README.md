@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SujonHossain1?tab=followers" target="_blank">
+  <a href="https://github.com/SujonHossain1?tab=followers">
     <img src="https://img.shields.io/github/followers/SujonHossain1?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://www.facebook.com/SujonHossainBD" target="_blank">
