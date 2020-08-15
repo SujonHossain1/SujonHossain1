@@ -1,5 +1,4 @@
 
-<div style="background: #333">
   ![Eddie Jaoude](https://i.postimg.cc/VsZ9K3sH/Pics-Art-08-15-01-16-01.jpg)
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
@@ -23,5 +22,4 @@
 
 
 <small align="center"><img width="100%" height="250px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true_color=fff&text_color=9f9f9f&bg_color=151515" /></small>
- </div>
   
