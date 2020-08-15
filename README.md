@@ -1,5 +1,4 @@
-<body style="background: black">
-
+<div style="background: #151515">
 
 
 <img src="https://i.postimg.cc/VsZ9K3sH/Pics-Art-08-15-01-16-01.jpg">
@@ -28,7 +27,5 @@
 
 
 <small align="center"><img width="100%" height="250px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true_color=fff&text_color=9f9f9f&bg_color=151515" /></small>
-
-  
-</body>
+</div>
   
