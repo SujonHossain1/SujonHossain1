@@ -4,7 +4,6 @@
 <img src="https://i.postimg.cc/VsZ9K3sH/Pics-Art-08-15-01-16-01.jpg">
 <p align="center" background="red ">I believe hard work can be anything 🙂</p>
 
-<p align="center"><b>Visit My Website https://stars.github.com/profiles</b></p>
 
 <p align="center">
  I am <a href="https://www.linkedin.com/in/sujonhossain/">
