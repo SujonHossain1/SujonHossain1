@@ -1,12 +1,10 @@
 
-
-
 <img src="https://i.postimg.cc/VsZ9K3sH/Pics-Art-08-15-01-16-01.jpg">
 <p align="center" background="red ">I believe if i  work hard, i can do anything 😈</p>
 
 
 <p align="center">
- Hey, I am <a href="https://www.linkedin.com/in/sujonhossain/">
+ Hey,👋 I am <a href="https://www.linkedin.com/in/sujonhossain/">
  Sujon Hossain.  </a>  I'm a student of BSc in CSE 3rd semester. I enjoy to learn everything myself and share that's with everyone. I wish to be an own working employee and fly all over the world. I am currently brushing up my skills and plan to learn to React, Node and Express.
 </p>
 
