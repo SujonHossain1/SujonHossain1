@@ -44,7 +44,7 @@
 <br> <br>
 </a>
 
-<small align="center"><img width="100%" height="250px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true_color=fff&text_color=9f9f9f&bg_color=151515" /></small>
+<small align="center"><img width="100%" height="250px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true" /></small>
 
 <p align="center">If you like the Repository give it a ⭐ and also follow me on Github 😀 , you can also see my projects here <a href="https://github.com/SujonHossain1?tab=repositories"> Projects</p>
 
