@@ -1,5 +1,5 @@
 
-[<img src="https://i.postimg.cc/VsZ9K3sH/Pics-Art-08-15-01-16-01.jpg">][website]
+
 <h3 align="center">I believe myself. if I work hard, I can do anything 🔥🔥🔥</h3>
 <p align="center">
  Hey,👋 I am <a href="https://www.linkedin.com/in/sujonhossain/">
