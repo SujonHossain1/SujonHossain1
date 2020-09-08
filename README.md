@@ -2,10 +2,10 @@
 
 <h3 align="center">I believe myself. if I work hard, I can do anything 🔥🔥🔥</h3>
 <p align="center">
- Hey,👋 I am <a href="https://sujon-hossain.herokuapp.com/">
+ Hey,👋 I am <a href="https://sujonhossain.herokuapp.com/">
  Sujon Hossain.   </a>  I'm a student of BSc in CSE 3rd semester. I enjoy to learn everything myself and share that's with everyone. I wish to be an own working employee and fly all over the world. I am currently brushing up my skills and plan to learn to React, Node and Express.
 </p>
-<h4 align="center"> Visit My Website <a href="https://sujon-hossain.herokuapp.com/" target="_blank"> https://sujon-hossain.herokuapp.com/ </a></h4>
+<h4 align="center"> Visit My Website <a href="https://sujonhossain.herokuapp.com/" target="_blank"> https://sujonhossain.herokuapp.com/ </a></h4>
 <p align="center">
   <a href="https://github.com/SujonHossain1?tab=followers">
     <img src="https://img.shields.io/github/followers/SujonHossain1?label=Followers&logo=GitHub&style=social" alt="GitHub badge" />
@@ -51,10 +51,10 @@
 
 
 
-[website]: https://sujon-hossain.herokuapp.com/
-[twitter]: https://sujon-hossain.herokuapp.com/
-[linkedin]: https://sujon-hossain.herokuapp.com/
-[webdevplaylist]: https://sujon-hossain.herokuapp.com/
-[jsplaylist]: https://sujon-hossain.herokuapp.com/
-[cssplaylist]: https://sujon-hossain.herokuapp.com/
-[reactplaylist]: https://sujon-hossain.herokuapp.com/
+[website]: https://sujonhossain.herokuapp.com/
+[twitter]: https://sujonhossain.herokuapp.com/
+[linkedin]: https://sujonhossain.herokuapp.com/
+[webdevplaylist]: https://sujonhossain.herokuapp.com/
+[jsplaylist]: https://sujonhossain.herokuapp.com/
+[cssplaylist]: https://sujonhossain.herokuapp.com/
+[reactplaylist]: https://sujonhossain.herokuapp.com/
