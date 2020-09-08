@@ -1,6 +1,6 @@
 
 [<img src="https://i.postimg.cc/VsZ9K3sH/Pics-Art-08-15-01-16-01.jpg">][website]
-<p align="center">I believe myself. if i  work hard, i can do anything 😈</p>
+<h2 align="center">I believe myself. if I work hard, I can do anything 🔥🔥🔥</h2>
 <h4 align="center"> Visit My Website <a href="https://sujon-hossain.herokuapp.com/" target="_blank"> https://sujon-hossain.herokuapp.com/ </a></h4>
 <p align="center">
  Hey,👋 I am <a href="https://www.linkedin.com/in/sujonhossain/">
@@ -22,7 +22,7 @@
 
 
 
-<h2>My Skills and Tools Sets:---</h2>
+<h2>Languages & Tools:</h2>
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
