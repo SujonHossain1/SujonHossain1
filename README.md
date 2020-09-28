@@ -1,6 +1,6 @@
 
 
-<h3 align="center">I believe myself. if I work hard, I can do anything 🔥🔥🔥</h3>
+<h3 align="center">I believe can do anything 🔥🔥🔥</h3>
 <p align="center">
  Hey,👋 I am <a href="https://sujonhossain.herokuapp.com/">
  Sujon Hossain.   </a>  I'm a student of BSc in CSE 3rd semester. I enjoy to learn everything myself and share that's with everyone. I wish to be an own working employee and fly all over the world. I am currently brushing up my skills and plan to learn to React, Node and Express.
