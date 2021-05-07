@@ -3,7 +3,7 @@
 <h3 align="center">I believe hard work can be anything 🔥🔥🔥</h3>
 <p align="center">
  Hey,👋 I am <a href="https://sujonhossain.herokuapp.com/">
- Sujon Hossain.   </a>  I'm a student of BSc in CSE 3rd semester. I enjoy to learn everything myself and share that's with everyone. I wish to be an own working employee and fly all over the world. I am currently brushing up my skills and plan to learn to React, Node and Express.
+ Sujon Hossain.   </a>  I'm a student of BSc in CSE 3rd semester. I enjoy to learn everything myself and share that's with everyone. I wish to be an own working employee and fly all over the world. I am currently brushing up my skills and plan to learn to Next.js and ReactNative in 2021.
 </p>
 <h4 align="center"> Visit My Website <a href="https://sujonhossain.herokuapp.com/" target="_blank"> https://sujonhossain.herokuapp.com/ </a></h4>
 <p align="center">
