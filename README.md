@@ -2,20 +2,10 @@
 
 ### I would like to introduce myself as a Self-Learner 🎓 `MERN Stack Developer` 💻 💻 💻 
 
- Hey,👋 I am <a href="https://sujonhossain.herokuapp.com/">
+Hey,👋 I am <a href="https://sujonhossain.herokuapp.com/">
  Sujon Hossain.   </a>  I'm a student of BSc in CSE 3rd semester.   I enjoy to learn anything  myself 😌 And I love to **`share my small bits of knowledge`** with the people to acquire the big one🎉 🎉. I wish to be an own working employee and fly all over the world. 🚀   **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite wanna have a discussion with me? Let's connect 🚀 🚀 
 
-
-* 🔭 I’m currently working on building **My Own Development System**. 
-* 🌱 I’m currently brushing up my skills and plan to learn to **Advance Topics of React, Next.js and React Native** in 2021.
-* 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
-* 💬 Ask me about **JavaScript, ES6, React, Redux, Express, CSS related queestions**. I would be happy to share my knowledge.
-* 🔥 My motivation **`I believe hard work can be anything`**
-
-<br>
-
- ### **`Visit My Portfolio `** <a href="https://sujonhossain.herokuapp.com/" target="_blank"> https://sujonhossain.herokuapp.com/ </a> 
-<p align="center">
+ <p align="center">
   <a href="https://github.com/SujonHossain1?tab=followers">
     <img src="https://img.shields.io/github/followers/SujonHossain1?label=Followers&logo=GitHub&style=social" alt="GitHub badge" />
   </a>
@@ -28,7 +18,17 @@
   </a>
 </p>
 
+<br/>
 
+
+* 🔭 I’m currently brushing on building **My Own Development System**. 
+* 🌱 I’m currently focusing up my skills and plan to learn to **Advance Topics of React, Next.js and React Native** in 2021.
+* 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
+* 💬 Ask me about **JavaScript, ES6, React, Redux, Express, CSS related queestions**. I would be happy to share my knowledge.
+* 🔥 My motivation **`I believe hard work can be anything`**
+* ⚛️ [**`Visit My Portfolio `**](https://sujonhossain.herokuapp.com/ "Sujon Hossain")
+
+<br>
 
 <h2>Languages & Tools:</h2>
 
