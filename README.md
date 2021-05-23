@@ -2,8 +2,7 @@
 
 ### I would like to introduce myself as a Self-Learner 🎓 `MERN Stack Developer` 💻 💻 💻 
 
-Hey,👋 I am <a href="https://sujonhossain.herokuapp.com/">
- Sujon Hossain.   </a>  I'm a student of BSc in CSE 3rd semester.   I enjoy to learn anything  myself 😌 And I love to **`share my small bits of knowledge`** with the people to acquire the big one🎉 🎉. I wish to be an own working employee and fly all over the world. 🚀   **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite wanna have a discussion with me? Let's connect 🚀 🚀 
+Hey There,👋 I am <a href="https://sujonbd.netlify.app/" target="_blank">Sujon Hossain </a> . A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I want to work Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh. I enjoy learning anything myself 😌 And I love to **`share my small bits of knowledge`** with the people to acquire the big one. I wish to be an own working employee and fly all over the world. 🚀   **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite wanna have a discussion with me? Let's connect 🚀 🚀 
 
  <p align="center">
   <a href="https://github.com/SujonHossain1?tab=followers">
@@ -26,7 +25,7 @@ Hey,👋 I am <a href="https://sujonhossain.herokuapp.com/">
 * 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
 * 💬 Ask me about **JavaScript, ES6, React, Redux, Express, CSS related queestions**. I would be happy to share my knowledge.
 * 🔥 My motivation **`I believe hard work can be anything`**
-* ⚛️ [**`Visit My Portfolio `**](https://sujonhossain.herokuapp.com/ "Sujon Hossain")
+* ⚛️ [**`Visit My Portfolio `**](https://sujonbd.netlify.app/ "Sujon Hossain")
 
 <br>
 
