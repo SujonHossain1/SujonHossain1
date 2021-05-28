@@ -23,7 +23,7 @@ Hey There,👋 I am <a href="https://sujonbd.netlify.app/" target="_blank">Sujon
 * 🔭 I’m currently brushing on building **My Own Development System**. 
 * 🌱 I’m currently focusing up my skills and plan to learn to **Advance Topics of React, Next.js and React Native** in 2021.
 * 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
-* 💬 Ask me about **JavaScript, ES6, React, Redux, Express, CSS related queestions**. I would be happy to share my knowledge.
+* 💬 Ask me about **JavaScript, ES6, React related queestions**. I would be happy to share my knowledge.
 * 🔥 My motivation **`I believe hard work can be anything`**
 * ⚛️ [**`Visit My Portfolio `**](https://sujonbd.netlify.app/ "Sujon Hossain")
 
