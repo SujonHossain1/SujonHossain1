@@ -51,7 +51,7 @@ Hey There,👋 I am <a href="https://sujonbd.netlify.app/" target="_blank">Sujon
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 <br> <br>
 
-[<small align="center"><img width="100%" height="250px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true_color=fff&text_color=9f9f9f&bg_color=151515" /></small>][website]
+[<small align="center"><img width="100%" height="250px"  src="https://github-readme-stats.vercel.app/api?username=SujonHossain1&show_icons=true_color=fff&text_color=9f9f9f&bg_color=0d1117" /></small>][website]
 
 <p align="center">If you like the Repository give it a ⭐ and also follow me on Github 😀 , you can also see my projects here <a href="https://github.com/SujonHossain1?tab=repositories"> Projects</p>
 
