@@ -1,8 +1,8 @@
 
 
-### I would like to introduce myself as a Self-Learner 🎓 `MERN Stack Developer` 💻 💻 💻 
+### I would like to introduce myself as a Self-Learner 🎓 `Software Engineer Student` 💻 💻 💻 
 
-Hey There,👋 I am <a href="https://sujonbd.netlify.app/" target="_blank">Sujon Hossain </a> . A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I want to work Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh. I enjoy learning anything myself 😌 And I love to **`share my small bits of knowledge`** with the people to acquire the big one. I wish to be an own working employee and fly all over the world. 🚀   **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite wanna have a discussion with me? Let's Connect!! 🚀 🚀 
+Hey There,👋 I am <a href="https://sujonbd.netlify.app/" target="_blank">Sujon Hossain </a> . A self-motivated and enthusiastic Software developer with a deep interest in JavaScript. I want to work in Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh. I enjoy learning anything myself 😌 And I love to **`share my small bits of knowledge`** with the people to acquire the big one. I wish to be an own working employee and fly all over the world. 🚀   **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite wanna have a discussion with me? Let's Connect!! 🚀 🚀 
 
  <p align="center">
   <a href="https://github.com/SujonHossain1?tab=followers">
@@ -20,10 +20,9 @@ Hey There,👋 I am <a href="https://sujonbd.netlify.app/" target="_blank">Sujon
 <br/>
 
 
-* 🔭 I’m currently brushing on building **My Own Development System**. 
-* 🌱 I’m currently focusing up my skills and plan to learn to **Advance Topics of React, Next.js and Node.js** in 2021.
+* 🔭 I’m currently working at <a href="https://www.joomshaper.com/"> JoomShaper </a> ! 
+* 🌱 I’m currently focusing up my skills and plan to learn to **Frontend Engineering and Problem Solving** in 2022.
 * 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
-* 💬 Ask me about **JavaScript, ES6, React related queestions**. I would be happy to share my knowledge.
 * 🔥 My motivation **`I believe hard work can do anything`**
 * ⚛️ [**`Visit My Portfolio `**](https://sujonbd.netlify.app/ "Sujon Hossain")
 
