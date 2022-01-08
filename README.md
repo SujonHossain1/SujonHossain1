@@ -20,7 +20,7 @@ Hey There,👋 I am <a href="https://sujonbd.netlify.app/" target="_blank">Sujon
 <br/>
 
 
-* 🔭 I’m currently working at <a href="https://www.joomshaper.com/"> JoomShaper </a> ! 
+* 🔭 I'm currently working Software Engineer Intern at <a href="https://www.joomshaper.com/"> JoomShaper </a> ! 
 * 🌱 I’m currently focusing up my skills and plan to learn to **Frontend Engineering and Problem Solving** in 2022.
 * 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
 * 🔥 My motivation **`I believe hard work can do anything`**
