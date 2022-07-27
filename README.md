@@ -2,7 +2,7 @@
 
 ### I would like to introduce myself as a Self-Learner 🎓 `Software Engineering Student` 💻 💻 💻 
 
-Hey There,👋 <a href="https://sujonbd.netlify.app/" target="_blank">Sujon Hossain</a> a Frontend Engineer and Programmer with a deep interest in Software Architect. As a programmer, I am always eager to learn new technologies. Whenever I decide to achieve something, I push my best effort to complete this with a sharp timeline. I enjoy learning anything myself 😌 And I love to  **`share my small bits of knowledge`** with people to acquire the big ones. I wish to be an own working employee and fly all over the world. 🚀  **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite wanna have a discussion with me? Let's Connect!! 🚀 🚀
+Hey There,👋 I'm <a href="https://sujonbd.netlify.app/" target="_blank">Sujon Hossain</a> a Frontend Engineer and Programmer with a deep interest in Software Architect. As a programmer, I am always eager to learn new technologies. Whenever I decide to achieve something, I push my best effort to complete this with a sharp timeline. I enjoy learning anything myself 😌 And I love to  **`share my small bits of knowledge`** with people to acquire the big ones. I wish to be an own working employee and fly all over the world. 🚀  **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite wanna have a discussion with me? Let's Connect!! 🚀 🚀
 
 
  <p align="center">
